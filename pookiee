@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>💖</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+      background-color: #ffe6f0;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5em;
+      color: #ff4d88;
+    }
+  </style>
+</head>
+<body>
+  <h1>My meezzzeeee!! meri chatpati haseena!, I LOVE YOUUUUU 💖</h1>
+</body>
+</html>
